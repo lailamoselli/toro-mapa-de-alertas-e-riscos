@@ -376,13 +376,13 @@ O fluxo do usuário foi elaborado para representar os caminhos possíveis entre 
 
 No fluxo do usuário comum, o acesso à aplicação pode ocorrer pela tela de login ou pela realização de um novo cadastro. Após o acesso, o usuário é direcionado para a página inicial, onde encontra o mapa e as informações relacionadas às ocorrências e alertas. A partir dessa tela, também poderá acessar seu perfil e outras funcionalidades previstas para consulta e comunicação de situações de risco.
 
-![Do fluxo do usuário comum](docs/img/inserir-aqui-a-imagem-do-fluxo-do-usu-rio-comum.png)
+<img width="818" height="700" alt="User Flow UC" src="https://github.com/user-attachments/assets/0043ea76-78dc-4b26-af51-98222ff0176f" />
 
 Além das funcionalidades de consulta, os wireframes destinados ao usuário comum também preveem o registro de ocorrências e o acesso a recursos de emergência, permitindo que situações identificadas pelo usuário sejam comunicadas pela aplicação e que haja acesso rápido aos meios de contato de emergência.
 
 Para a Defesa Civil, o fluxo também parte das telas de login ou cadastro e direciona o usuário para a página inicial da aplicação. A partir dela, é possível acessar o perfil e a área específica da Defesa Civil, destinada ao acompanhamento das ocorrências registradas. Nesse ambiente, as informações recebidas podem ser consultadas e analisadas para posterior validação.
 
-![Do fluxo da defesa civil](docs/img/inserir-aqui-a-imagem-do-fluxo-da-defesa-civil.png)
+<img width="761" height="694" alt="User Flow DC" src="https://github.com/user-attachments/assets/7cb9a245-c5d3-4c76-b8a0-262cbcf1e72d" />
 
 Os fluxos foram organizados de forma a demonstrar visualmente as relações entre as telas e os principais caminhos que poderão ser percorridos pelos dois perfis durante a utilização do sistema.
 
@@ -392,11 +392,11 @@ Os wireframes foram desenvolvidos para representar a estrutura das telas do Tor�
 
 Para o usuário comum, foram projetadas telas de login, cadastro, página inicial, perfil, registro de ocorrência, redefinição de senha e acesso aos recursos de emergência. A página inicial concentra o mapa e os registros de ocorrências e alertas, permitindo que o usuário tenha acesso às principais informações logo após entrar na aplicação. A tela destinada às ocorrências possibilita o envio de informações sobre uma situação identificada, enquanto a área de emergência disponibiliza formas de contato com o serviço responsável.
 
-![Dos wireframes do usuário comum](docs/img/inserir-aqui-a-imagem-dos-wireframes-do-usu-rio-comum.png)
+<img width="752" height="693" alt="Wireframe Usuario Comum" src="https://github.com/user-attachments/assets/86eb5288-6e49-492f-bf2a-fcaa87a0c598" />
 
 Para o perfil da Defesa Civil, foram desenvolvidas telas de login, cadastro, página inicial, perfil, redefinição de senha e área específica para análise das ocorrências. A interface destinada à Defesa Civil permite visualizar informações encaminhadas para a aplicação, incluindo os registros e imagens associados à ocorrência, além do espaço destinado à descrição e à validação das informações.
 
-![Dos wireframes da defesa civil](docs/img/inserir-aqui-a-imagem-dos-wireframes-da-defesa-civil.png)
+<img width="717" height="660" alt="Wireframe Defesa Civil" src="https://github.com/user-attachments/assets/9d3a08eb-2898-4abb-b76c-eb2fc13ce90a" />
 
 Dessa forma, os wireframes permitem visualizar não apenas a organização individual de cada tela, mas também como elas se relacionam dentro da aplicação e como as funcionalidades previstas foram distribuídas entre os diferentes perfis de usuário.
 
@@ -420,15 +420,7 @@ Por meio do protótipo é possível observar, de maneira mais próxima à utiliz
 
 **Protótipo interativo:**
 
-https://www.figma.com/proto/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=146-435&t=oxAp7G8KFDlpLQqg-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=146%3A435&show-proto-sidebar=1
-
-Esse texto está mais adequado ao trabalho porque não fica apenas definindo o que é fluxo, wireframe e protótipo. Ele efetivamente descreve o que vocês construíram, enquanto as imagens comprovam visualmente o fluxo e os wireframes e o link permite testar o protótipo, que é justamente o que a professora solicitou. No arquivo atual do Toró, esses três itens ainda aparecem apenas como títulos, então é exatamente esse conteúdo que falta preencher nessa parte.
-
-Também evitaria colocar uma lista enorme descrevendo tela por tela ou explicar conceitos de UX em excesso. Aqui o foco deve ser mostrar o projeto de vocês e explicar brevemente o que foi construído, porque a rubrica considera completo o Product Design quando o projeto de interface está bem estruturado e inclui os wireframes e o protótipo interativo.
-
 https://www.figma.com/proto/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=146-442&p=f&t=z6KQi6DWRMIpkQGq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=146%3A442&show-proto-sidebar=1
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=146-442&p=f&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=146%3A442&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
 **5 METODOLOGIA**
 
@@ -468,7 +460,7 @@ A equipe organizou o desenvolvimento do projeto com base no framework Scrum, div
 
 Para organizar e acompanhar o desenvolvimento do projeto, a equipe utilizou um quadro Kanban no Miro, estruturado nas etapas: A Fazer, Em Andamento e Concluído. As atividades foram inseridas no quadro e movimentadas conforme o progresso do trabalho, permitindo visualizar as responsabilidades de cada integrante, as tarefas já realizadas e aquelas que ainda estavam pendentes.
 
-![Quadro Kanban](docs/img/quadro-kanban.png)
+<img width="9192" height="5330" alt="Quadro Kanban" src="https://github.com/user-attachments/assets/0f78e2a4-96a2-4533-9d5c-db7f418f8494" />
 
 https://miro.com/welcomeonboard/eFE2NjZ6TVN0OTBPRVY2cUh6a1NMb1g4SU9iU1krK3JTWk5lT2tRVy9seHdrL3hDQjYzOFU5Uzl6N0lMWGFacjhPNVRwSmthUCtSMFYzV2pnRHBRZXRyR0YyRUNicXZGcDFNdGlWS2xQTlNyY2MyT2QyUlI1WG5rR2dZRHd0ZDVyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=954361255526
 
