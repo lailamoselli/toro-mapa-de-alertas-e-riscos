@@ -426,6 +426,10 @@ Esse texto está mais adequado ao trabalho porque não fica apenas definindo o q
 
 Também evitaria colocar uma lista enorme descrevendo tela por tela ou explicar conceitos de UX em excesso. Aqui o foco deve ser mostrar o projeto de vocês e explicar brevemente o que foi construído, porque a rubrica considera completo o Product Design quando o projeto de interface está bem estruturado e inclui os wireframes e o protótipo interativo.
 
+https://www.figma.com/proto/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=146-442&p=f&t=z6KQi6DWRMIpkQGq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=146%3A442&show-proto-sidebar=1
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=146-442&p=f&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=146%3A442&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
+
 **5 METODOLOGIA**
 
 **5.1 FERRAMENTAS**
