@@ -3,6 +3,7 @@
 Trabalho acadêmico sobre a falta de conhecimento acerca dos riscos geológicos, apresentado à Pontifícia Universidade Católica de Minas Gerais, para avaliação na disciplina de Trabalho Interdisciplinar: Aplicações Web Front-End, dos cursos de Sistemas de Informação e Análise e Desenvolvimento de Sistemas.
 
 - **Projeto:** Toró — Mapa de Riscos e Alertas
+<img width="8591" height="5703" alt="Matriz CSD" src="https://github.com/user-attachments/assets/3e31bd26-c6de-4a18-adfd-f4ce0dfa3eb8" />
 
 - **Repositório GitHub:** [toro-mapa-de-alertas-e-riscos](https://github.com/lailamoselli/toro-mapa-de-alertas-e-riscos/tree/main)
 
