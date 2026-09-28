@@ -246,7 +246,7 @@ O depoimento evidencia a importância de uma comunicação que ocorra antes que 
 
 A partir da compreensão do problema e das necessidades identificadas durante a pesquisa, tornou-se necessário investigar quais dados e recursos tecnológicos seriam necessários para o funcionamento do software em uma implementação real. Como a proposta envolve a apresentação de áreas vulneráveis, alertas preventivos e de emergência e informações de apoio à população, o sistema dependeria da integração de diferentes fontes meteorológicas, hidrológicas e geográficas.
 
-**3.3.3  Dados de monitoramento e previsão**
+**3.3.2.1  Dados de monitoramento e previsão**
 
 Um dos principais elementos seria o acompanhamento da precipitação. O Cemaden mantém uma rede de pluviômetros automáticos capaz de registrar a quantidade e a intensidade das chuvas e disponibiliza informações recentes e séries históricas por meio de seus sistemas. Esses dados poderiam auxiliar na identificação da evolução das chuvas em determinada região. Entretanto, o próprio Cemaden informa que dados disponibilizados diretamente no Mapa Interativo podem ser brutos e apresentar inconsistências, o que demonstra a necessidade de tratamento e validação antes de sua utilização pelo software (CEMADEN, 2015).
 
@@ -260,7 +260,7 @@ A Agência Nacional de Águas e Saneamento Básico (ANA), por meio do HidroWeb, 
 
 Experiências como o GeoRisk, desenvolvido no contexto do Cemaden, demonstram a utilização conjunta de modelos meteorológicos, informações ambientais, histórico de desastres e parâmetros técnicos para apoiar a previsão de riscos. Para a aplicação, essa referência reforça que qualquer classificação de atenção, alerta ou emergência deveria utilizar critérios tecnicamente fundamentados e, preferencialmente, validados pelos órgãos competentes (CEMADEN, [s.d.]a).
 
-**3.3.4 Informações geográficas e localização**
+**3.3.2.2 Informações geográficas e localização**
 
 Além dos dados meteorológicos e hidrológicos, o funcionamento da aplicação dependeria da identificação espacial das áreas vulneráveis. Belo Horizonte disponibiliza informações geográficas por meio do BHGEO, inclusive serviços nos padrões WMS e WFS, que permitem respectivamente visualizar mapas e acessar dados de determinadas camadas geográficas (BELO HORIZONTE, 2021).
 
@@ -272,7 +272,7 @@ A integração de diferentes fontes já começa a ser realizada pelos próprios 
 
 A proposta do Toró se aproxima desse modelo de integração, porém com uma finalidade diferente. Enquanto estruturas como o Observatório auxiliam principalmente as equipes responsáveis pelo monitoramento e pela gestão das ocorrências, o Toró pretende organizar parte dessas informações para apresentá-las diretamente à população em uma linguagem mais simples, contextualizada e relacionada à localização do usuário.
 
-**3.3.5 Estrutura tecnológica e processamento das informações**
+**3.3.2.3 Estrutura tecnológica e processamento das informações**
 
 Em uma implementação real, o Toró necessitaria de uma estrutura formada por front-end, back-end e banco de dados. O front-end seria responsável pelas telas visualizadas pelo usuário, como mapa, alertas, áreas de risco, orientações e locais seguros. O back-end faria a comunicação com as fontes externas, trataria os dados recebidos e aplicaria as regras necessárias ao funcionamento do sistema. O banco de dados armazenaria informações como áreas vulneráveis, estações de monitoramento, locais seguros, alertas, ocorrências e demais dados necessários à aplicação.
 
@@ -402,13 +402,9 @@ Dessa forma, os wireframes permitem visualizar não apenas a organização indiv
 
 As telas desenvolvidas no Figma podem ser consultadas pelos links:
 
-**Telas do projeto:**
+**Telas do projeto:** https://www.figma.com/design/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=140-625&t=3qWkXGeZjYDGcOqq-1
 
-https://www.figma.com/design/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=140-625&t=3qWkXGeZjYDGcOqq-1
-
-**Arquivo das telas:**
-
-https://www.figma.com/design/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=0-1&p=f
+**Arquivo das telas:** https://www.figma.com/design/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=0-1&p=f
 
 **4.3.3 Protótipo Interativo**
 
@@ -418,9 +414,7 @@ A navegação possibilita percorrer os diferentes caminhos previstos no projeto,
 
 Por meio do protótipo é possível observar, de maneira mais próxima à utilização do sistema final, a relação entre as telas e o funcionamento esperado da navegação antes da etapa de implementação da aplicação.
 
-**Protótipo interativo:**
-
-https://www.figma.com/proto/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=146-442&p=f&t=z6KQi6DWRMIpkQGq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=146%3A442&show-proto-sidebar=1
+**Protótipo interativo:** https://www.figma.com/proto/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=146-442&p=f&t=z6KQi6DWRMIpkQGq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=146%3A442&show-proto-sidebar=1
 
 **5 METODOLOGIA**
 
@@ -461,8 +455,6 @@ A equipe organizou o desenvolvimento do projeto com base no framework Scrum, div
 Para organizar e acompanhar o desenvolvimento do projeto, a equipe utilizou um quadro Kanban no Miro, estruturado nas etapas: A Fazer, Em Andamento e Concluído. As atividades foram inseridas no quadro e movimentadas conforme o progresso do trabalho, permitindo visualizar as responsabilidades de cada integrante, as tarefas já realizadas e aquelas que ainda estavam pendentes.
 
 <img width="9192" height="5330" alt="Quadro Kanban" src="https://github.com/user-attachments/assets/0f78e2a4-96a2-4533-9d5c-db7f418f8494" />
-
-https://miro.com/welcomeonboard/eFE2NjZ6TVN0OTBPRVY2cUh6a1NMb1g4SU9iU1krK3JTWk5lT2tRVy9seHdrL3hDQjYzOFU5Uzl6N0lMWGFacjhPNVRwSmthUCtSMFYzV2pnRHBRZXRyR0YyRUNicXZGcDFNdGlWS2xQTlNyY2MyT2QyUlI1WG5rR2dZRHd0ZDVyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=954361255526
 
 **5.4 PRÓXIMOS PASSOS**
 
