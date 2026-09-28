@@ -3,7 +3,6 @@
 Trabalho acadêmico sobre a falta de conhecimento acerca dos riscos geológicos, apresentado à Pontifícia Universidade Católica de Minas Gerais, para avaliação na disciplina de Trabalho Interdisciplinar: Aplicações Web Front-End, dos cursos de Sistemas de Informação e Análise e Desenvolvimento de Sistemas.
 
 - **Projeto:** Toró — Mapa de Riscos e Alertas
-<img width="8591" height="5703" alt="Matriz CSD" src="https://github.com/user-attachments/assets/3e31bd26-c6de-4a18-adfd-f4ce0dfa3eb8" />
 
 - **Repositório GitHub:** [toro-mapa-de-alertas-e-riscos](https://github.com/lailamoselli/toro-mapa-de-alertas-e-riscos/tree/main)
 
@@ -173,7 +172,7 @@ A Matriz CSD, foi utilizada no projeto para organizar, em certezas, suposições
 
 - Se incidentes fossem reportados e resolvidos rapidamente, mais pessoas confiariam e usariam o site.
 
-![Matriz CSD](docs/img/matriz-csd.png)
+<img width="8591" height="5703" alt="Matriz CSD" src="https://github.com/user-attachments/assets/3e31bd26-c6de-4a18-adfd-f4ce0dfa3eb8" />
 
 **3.2 MAPA DE STAKEHOLDERS**
 
@@ -213,7 +212,7 @@ O Mapa de Stakeholders foi utilizado para identificar e organizar as pessoas, gr
 
 - Moradores e comerciantes locais: além de estarem diretamente sujeitos aos impactos das ocorrências, possuem conhecimento cotidiano sobre as regiões onde vivem ou trabalham. Como influenciadores, podem contribuir com experiências, relatos e percepções sobre problemas recorrentes, ajudando o projeto a compreender necessidades que podem não ser identificadas apenas por meio de dados técnicos.
 
-![Mapa de Stakeholders](docs/img/mapa-stakeholders.png)
+<img width="8450" height="5798" alt="Mapa de Stakeholders" src="https://github.com/user-attachments/assets/42f7c229-ad1c-41f3-a045-e824d6059bf8" />
 
 **3.3 PESQUISA E ENTENDIMENTO DO PROBLEMA**
 
@@ -309,6 +308,8 @@ Thiago José tem 26 anos, é motorista e utiliza diariamente celular, aplicativo
 
 Camila Ferreira tem 40 anos e trabalha como agente da Defesa Civil, utilizando computador, celular, sistemas internos, mapas digitais e aplicativos de comunicação em sua rotina profissional. Representa os profissionais envolvidos no monitoramento, prevenção e acompanhamento das situações de risco. Precisa identificar regiões vulneráveis, acompanhar ocorrências, receber informações da população e comunicar situações de perigo. Para esse perfil, o sistema deve apresentar informações precisas, organizadas, atualizadas e corretamente localizadas, facilitando o acompanhamento das ocorrências e evitando a divulgação de alertas sem confirmação ou informações incorretas.
 
+<img width="12043" height="4068" alt="Personas" src="https://github.com/user-attachments/assets/e6d6afd7-9ad0-4efd-8a2e-7740eae3f611" />
+
 **4 PRODUCT DESIGN**
 
 **4.1 HISTÓRIAS DE USUÁRIOS**
@@ -362,6 +363,8 @@ Quando houver informações confiáveis disponíveis, também poderá indicar vi
 A proposta de valor para Camila Ferreira está direcionada ao acompanhamento e à organização das informações sobre riscos e ocorrências. A solução permitirá visualizar áreas vulneráveis e ocorrências no mapa, identificar sua localização e acompanhar sua evolução.
 
 Também será possível consultar e analisar relatos enviados pela população, mantendo a diferenciação entre relatos comunitários e informações oficiais. A solução deve apresentar informações organizadas, atualizadas e corretamente localizadas, contribuindo para o monitoramento das situações de risco e para a comunicação de alertas e orientações à população.
+
+<img width="16070" height="3049" alt="Proposta de Valor" src="https://github.com/user-attachments/assets/905beee9-64f1-428e-8d80-e18a14bc12bb" />
 
 **4.3 PROJETO DE INTERFACE**
 
