@@ -376,13 +376,13 @@ O fluxo do usuário foi elaborado para representar os caminhos possíveis entre 
 
 No fluxo do usuário comum, o acesso à aplicação pode ocorrer pela tela de login ou pela realização de um novo cadastro. Após o acesso, o usuário é direcionado para a página inicial, onde encontra o mapa e as informações relacionadas às ocorrências e alertas. A partir dessa tela, também poderá acessar seu perfil e outras funcionalidades previstas para consulta e comunicação de situações de risco.
 
-<img width="818" height="700" alt="User Flow UC" src="https://github.com/user-attachments/assets/0043ea76-78dc-4b26-af51-98222ff0176f" />
+<img width="363" height="400" alt="Userflow-usuario" src="https://github.com/user-attachments/assets/d9c421e3-bc2d-416b-9a33-17331eadbdd6" />
 
 Além das funcionalidades de consulta, os wireframes destinados ao usuário comum também preveem o registro de ocorrências e o acesso a recursos de emergência, permitindo que situações identificadas pelo usuário sejam comunicadas pela aplicação e que haja acesso rápido aos meios de contato de emergência.
 
 Para a Defesa Civil, o fluxo também parte das telas de login ou cadastro e direciona o usuário para a página inicial da aplicação. A partir dela, é possível acessar o perfil e a área específica da Defesa Civil, destinada ao acompanhamento das ocorrências registradas. Nesse ambiente, as informações recebidas podem ser consultadas e analisadas para posterior validação.
 
-<img width="761" height="694" alt="User Flow DC" src="https://github.com/user-attachments/assets/7cb9a245-c5d3-4c76-b8a0-262cbcf1e72d" />
+<img width="429" height="391" alt="Userflow-defesa-civil" src="https://github.com/user-attachments/assets/d20eac25-a170-46f5-812b-8f0be4c567a1" />
 
 Os fluxos foram organizados de forma a demonstrar visualmente as relações entre as telas e os principais caminhos que poderão ser percorridos pelos dois perfis durante a utilização do sistema.
 
@@ -392,19 +392,19 @@ Os wireframes foram desenvolvidos para representar a estrutura das telas do Tor�
 
 Para o usuário comum, foram projetadas telas de login, cadastro, página inicial, perfil, registro de ocorrência, redefinição de senha e acesso aos recursos de emergência. A página inicial concentra o mapa e os registros de ocorrências e alertas, permitindo que o usuário tenha acesso às principais informações logo após entrar na aplicação. A tela destinada às ocorrências possibilita o envio de informações sobre uma situação identificada, enquanto a área de emergência disponibiliza formas de contato com o serviço responsável.
 
-<img width="752" height="693" alt="Wireframe Usuario Comum" src="https://github.com/user-attachments/assets/86eb5288-6e49-492f-bf2a-fcaa87a0c598" />
+<img width="462" height="577" alt="Wireframe-usuario" src="https://github.com/user-attachments/assets/80bdc63d-c3d0-43d3-9511-f15021b52743" />
 
 Para o perfil da Defesa Civil, foram desenvolvidas telas de login, cadastro, página inicial, perfil, redefinição de senha e área específica para análise das ocorrências. A interface destinada à Defesa Civil permite visualizar informações encaminhadas para a aplicação, incluindo os registros e imagens associados à ocorrência, além do espaço destinado à descrição e à validação das informações.
 
-<img width="717" height="660" alt="Wireframe Defesa Civil" src="https://github.com/user-attachments/assets/9d3a08eb-2898-4abb-b76c-eb2fc13ce90a" />
+<img width="551" height="448" alt="Wireframe-defesa-civil" src="https://github.com/user-attachments/assets/505fe047-f236-4993-9703-c037d355074f" />
 
 Dessa forma, os wireframes permitem visualizar não apenas a organização individual de cada tela, mas também como elas se relacionam dentro da aplicação e como as funcionalidades previstas foram distribuídas entre os diferentes perfis de usuário.
 
 As telas desenvolvidas no Figma podem ser consultadas pelos links:
 
-**Telas do projeto:** https://www.figma.com/design/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=140-625&t=3qWkXGeZjYDGcOqq-1
+**Telas do projeto:** https://www.figma.com/design/fhQuEifVsaGw4sfhOO9Va6/TIAW--c%25C3%25B3pia-?node-id=0-1&p=f&t=k13q6sV8pb8d7vhZ-0
 
-**Arquivo das telas:** https://www.figma.com/design/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=0-1&p=f
+**Arquivo das telas:** https://www.figma.com/design/fhQuEifVsaGw4sfhOO9Va6/TIAW--c%25C3%25B3pia-?node-id=351-329&p=f&t=k13q6sV8pb8d7vhZ-0
 
 **4.3.3 Protótipo Interativo**
 
@@ -414,7 +414,7 @@ A navegação possibilita percorrer os diferentes caminhos previstos no projeto,
 
 Por meio do protótipo é possível observar, de maneira mais próxima à utilização do sistema final, a relação entre as telas e o funcionamento esperado da navegação antes da etapa de implementação da aplicação.
 
-**Protótipo interativo:** https://www.figma.com/proto/Felz6rYkuXmjv84TCeNTkv/TIAW?node-id=146-442&p=f&t=z6KQi6DWRMIpkQGq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=146%3A442&show-proto-sidebar=1
+**Protótipo interativo:** https://www.figma.com/proto/fhQuEifVsaGw4sfhOO9Va6/TIAW--c%C3%B3pia-?node-id=146-435&t=oLnGW7NOJkSyxk20-1&starting-point-node-id=146%3A435
 
 **5 METODOLOGIA**
 
